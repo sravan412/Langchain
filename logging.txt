@@ -1,0 +1,9 @@
+Your Conversation Log:
+You: hello
+AI: Hello! It's nice to meet you. How are you today? Is there something I can help you with or would you like to chat?
+
+You: my name is sravan
+AI: 
+AI: Nice to meet you too, Sravan! *smiling* It's great to have you here. How are you feeling today? Is there anything on your mind that you'd like to talk about or ask me? I'm here to help with any questions or concerns you may have.
+
+End of Conversation
