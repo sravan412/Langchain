@@ -34,7 +34,7 @@ splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
 chunks = splitter.split_documents(pages)
 
 # === 5. ChromaDB Setup ===
-persist_directory = r"C:\Vaibhav\LangGraph_Book\LangGraphCourse\Agents"
+persist_directory = r"C:\Users\srava\Downloads\Stock_Market_Performance_2024.pdf"
 collection_name = "stock_market"
 os.makedirs(persist_directory, exist_ok=True)
 
